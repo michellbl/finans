@@ -1,2 +1,2 @@
-https://michellbl.finans.io
+https://finans.io
 Site do projeto finans
