@@ -16,7 +16,7 @@ footer p a {
 /* No media query since this is the default in Bootstrap*/
 @media (max-width: 575.98px) { 
     #h1-custom {
-        margin-right: 5px;    
+        margin-right: 10px;    
         font-size: 3em;
         
         }
@@ -28,7 +28,7 @@ footer p a {
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
     #h1-custom {
-        margin-right: 5px;
+        margin-right: 10px;
         font-size: 3em;
     }
 }
