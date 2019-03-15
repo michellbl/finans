@@ -15,7 +15,7 @@ footer p a {
 /* Extra small devices (portrait phones, less than 576px)*/
 /* No media query since this is the default in Bootstrap*/
 @media (max-width: 575.98px) { 
-    .h1 {
+    #h1-custom {
             font-size: 3em;
         }
         .btn{
@@ -25,14 +25,14 @@ footer p a {
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
-    .h1 {
+    #h1-custom {
         font-size: 3em;
     }
 }
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
-    .h1 {
+    #h1-custom {
         font-size: 4em;
     }
 
@@ -40,14 +40,14 @@ footer p a {
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) { 
-    .h1 {
+    #h1-custom {
         font-size: 5em;
     }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { 
-    .h1 {
+    #h1-custom {
         font-size: 6em;
     }
 }
