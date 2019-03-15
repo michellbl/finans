@@ -26,6 +26,7 @@ footer p a {
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
     #h1-custom {
+        margin-right: 5px;
         font-size: 3em;
     }
 }
