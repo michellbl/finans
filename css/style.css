@@ -16,7 +16,9 @@ footer p a {
 /* No media query since this is the default in Bootstrap*/
 @media (max-width: 575.98px) { 
     #h1-custom {
-            font-size: 3em;
+        margin-right: 5px;    
+        font-size: 3em;
+        
         }
         .btn{
             font-size: 1em;
